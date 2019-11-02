@@ -1,2 +1,0 @@
-# sharpqin
-My Blog
